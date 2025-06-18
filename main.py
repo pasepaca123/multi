@@ -3,7 +3,6 @@ import datetime
 from flet import*
 import sqlite3
 
-
 def main(ven: Page):
    ven.theme_mode = ThemeMode.LIGHT
    
